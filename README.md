@@ -3,6 +3,26 @@ In the dynamic landscape of online sales, the ability to track and analyze data 
 To address this need, this project focuses on developing a creative and interactive dashboard that provides comprehensive insights into online sales data. 
 By leveraging complex parameters, joint tables, and a variety of visualization techniques, users can drill down into the data, customize views using filters and slicers, and gain valuable insights to drive informed decision-making.
 
+
+**Problem Statement:**
+In response to the dynamic nature of online sales, there is a critical need for a sophisticated and user-friendly dashboard to effectively track and analyze sales data. This dashboard must address several key challenges and requirements:
+
+**1. Advanced Parameter Implementation:** The dashboard necessitates the integration of complex parameters to enable users to navigate through worksheets and customize data views using filters and slicers. This feature is essential for facilitating efficient exploration and analysis of large datasets.
+
+**2. Data Manipulation and Integration:** Creating connections between newly introduced joint tables and performing calculations are pivotal tasks. This underscores the importance of employing robust data manipulation techniques to aggregate, transform, and integrate data from diverse sources into a cohesive dataset for analysis.
+
+**3. User-Driven Visualization Customization:** The dashboard must empower users with the ability to tailor visualization parameters according to their preferences and analytical needs.
+Providing flexible options for users to select metrics, dimensions, and visualization types dynamically is imperative for enhancing user experience and insights extraction.
+
+**4. Versatile Visualization Techniques**: To effectively convey insights from the data, the dashboard will employ a diverse range of visualization techniques. 
+These include but are not limited to bar charts, pie charts, donut charts, clustered buyer charts, scatter charts, line charts, area charts, maps, and slides. The utilization of such varied visualization types will ensure comprehensive representation and interpretation of online sales trends and patterns.
+
+In summary, the development of this creative and interactive dashboard poses significant challenges, including the implementation of advanced parameters, data manipulation and integration, user-driven visualization customization, and the utilization of diverse visualization techniques. 
+Addressing these challenges effectively will result in a powerful tool for tracking and analyzing online sales data, empowering businesses to make informed decisions and optimize their sales strategies.
+
+This version provides a clear and concise articulation of the problem statement, highlighting the key challenges and requirements involved in developing the interactive dashboard for online sales data analysis.
+
+
 **Objectives:**
 
 1. Develop an interactive dashboard that enables users to track and analyze online sales data effectively.
