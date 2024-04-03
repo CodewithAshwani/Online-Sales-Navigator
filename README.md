@@ -26,3 +26,14 @@ By leveraging complex parameters, joint tables, and a variety of visualization t
 2. By leveraging complex parameters, joint tables, and a variety of visualization techniques, users can gain actionable insights to optimize their online sales strategies, identify trends, and make data-driven decisions. 
 3. The implementation of user-driven parameters for visualization enhances flexibility and customization, enabling users to tailor views to their specific needs. Overall, this project contributes to the advancement of data analytics capabilities in the context of online sales, empowering businesses to thrive in the digital marketplace.
 
+
+**Output files:**
+
+1. DELHI QUARTER:
+![delhi](https://github.com/CodewithAshwani/Online-Sales-Navigator/assets/73930456/526eb2cf-bdfd-4306-acc9-30d732662343)
+
+2. HIMACHAL PRADESH QUARTER 4
+<img width="599" alt="Himachal pradesh qt4" src="https://github.com/CodewithAshwani/Online-Sales-Navigator/assets/73930456/20b7bbff-9944-4d43-a972-74e61cce662f">
+
+3. QUARTER1 OF  DELHI
+<img width="606" alt="QTR1 DELHI" src="https://github.com/CodewithAshwani/Online-Sales-Navigator/assets/73930456/fc0cea43-9a2b-4ff8-9972-e5b75049fce0">
