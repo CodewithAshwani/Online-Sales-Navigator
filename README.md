@@ -29,10 +29,10 @@ By leveraging complex parameters, joint tables, and a variety of visualization t
 
 **Output files:**
 
-1. DELHI QUARTER:
+1. QUARTER4 OF DELHI :
 ![delhi](https://github.com/CodewithAshwani/Online-Sales-Navigator/assets/73930456/526eb2cf-bdfd-4306-acc9-30d732662343)
 
-2. HIMACHAL PRADESH QUARTER 4
+2. QUARTER1 OF HIMACHAL PRADESH 
 <img width="599" alt="Himachal pradesh qt4" src="https://github.com/CodewithAshwani/Online-Sales-Navigator/assets/73930456/20b7bbff-9944-4d43-a972-74e61cce662f">
 
 3. QUARTER1 OF  DELHI
